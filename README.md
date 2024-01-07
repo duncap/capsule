@@ -18,6 +18,6 @@ Developed by Gabriel Luis, originallyva Scratch developer, Capsule's mission is 
 To get started with Capsule, clone the repository and follow the setup instructions provided by the installer. Developers looking to create applications for Capsule can download the provided toolkit [here](https://link-url-here.org) and follow the guidelines for app development.
 
 ```bash
-git clone https://github.com/gabrieloncoffee/capsule/tree/main
+git clone https://github.com/gabrieloncoffee/capsule/tree/main/capsulex64
 cd capsule
 # Follow the setup instructions in the installer.
