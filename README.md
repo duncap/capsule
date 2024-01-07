@@ -3,7 +3,7 @@
 Capsule is an open-source, Linux-based operating system primarily focused on web applications. It represents a unique approach to computing, combining the versatility of web technologies with the efficiency and security of a Linux backbone.
 
 ## Introduction
-Developed by Gabriel Luis, originallyva Scratch developer, Capsule's mission is to push the boundaries of Scratch-based technologies and provide an innovative web-focused computing experience.
+Developed by Gabriel Luis, originally a Scratch developer, Capsule's mission is to push the boundaries of Scratch-based technologies and provide an innovative web-focused computing experience.
 
 ## Features
 
